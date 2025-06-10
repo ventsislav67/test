@@ -24,7 +24,7 @@ for (int i = 1; i < n3; i++)
 [![2025-06-10-102343.png](https://i.postimg.cc/htCsKtgR/2025-06-10-102343.png)](https://postimg.cc/v4VfzMc0)
 # Какво трябва да изкара програмата:
 [![eto22.png](https://i.postimg.cc/xC16KNRC/eto22.png)](https://postimg.cc/f317sL1n)
-### ЗА ДА ВИДИТЕ ЦЕЛИЯТ КОД ВИЖТЕ ПРОГРАМАТА!😊
+### ЗА ДА ВИДИТЕ ЦЕЛИЯ КОД ВИЖТЕ ПРОГРАМАТА!😊
 
 
 
