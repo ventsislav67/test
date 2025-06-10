@@ -23,7 +23,8 @@ for (int i = 1; i < n3; i++)
 # снимка как действа кода
 ![ето](https://i.ibb.co/q3JdVDjQ/your-image.jpg)
 # Какво трябва да изкара програмата
-![Снимка](https://postimg.cc/p5bBfTBY.jpg)
+![Снимка](https://i.postimg.cc/p5bBfTBY/filename.jpg)
+
 
 
 
