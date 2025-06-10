@@ -5,8 +5,7 @@
 
 част от кода на снимка:
 # Снимка 🌐
-<img title="a title" alt="Alt text" src="<a href="https://ibb.co/q3JdVDjQ"><img src="https://i.ibb.co/q3JdVDjQ/2025-06-10-102343.png" alt="2025-06-10-102343" border="0"></a>">
-- 
+![Alt text]("https://ibb.co/q3JdVDjQ" "a title")- 
 - 
 - 
 
