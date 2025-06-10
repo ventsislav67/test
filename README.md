@@ -1,3 +1,3 @@
 # test
 10.06.25
-[![App Platorm](https://ibb.co/q3JdVDjQ)]
+![Описание на снимката](https://ibb.co/q3JdVDjQ.jpg)
